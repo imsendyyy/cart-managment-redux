@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart-managment-redux/static/css/main.5c3057e2.css",
+    "main.js": "/cart-managment-redux/static/js/main.10881839.js",
+    "index.html": "/cart-managment-redux/index.html",
+    "main.5c3057e2.css.map": "/cart-managment-redux/static/css/main.5c3057e2.css.map",
+    "main.10881839.js.map": "/cart-managment-redux/static/js/main.10881839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3057e2.css",
+    "static/js/main.10881839.js"
+  ]
+}
